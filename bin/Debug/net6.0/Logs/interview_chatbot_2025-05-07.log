@@ -1,0 +1,142 @@
+﻿[2025-05-07 13:07:02] [Utilisateur: web_user_0nvqc3vf3ald] [Étape: WebChat]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 13:07:02] [Utilisateur: web_user_0nvqc3vf3ald] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-07 13:07:02] [Utilisateur: web_user_0nvqc3vf3ald] [Étape: Preparation]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Préparons-vous pour votre entretien ! Voici quelques options pour vous aider :
+---------------------------------------------
+[2025-05-07 13:07:08] [Utilisateur: web_user_0nvqc3vf3ald] [Étape: WebChat]
+Message utilisateur: 🗣️ Questions fréquentes
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 13:07:25] [Utilisateur: web_user_0nvqc3vf3ald] [Étape: Preparation]
+Message utilisateur: 🗣️ Questions fréquentes
+Réponse bot: D'accord, parlons des questions fréquentes que les employeurs posent souvent lors des entretiens d'embauche. Se préparer à ces questions te permettra de répondre de manière claire et confiante. Voici quelques exemples de ces questions, ainsi que des conseils pour y répondre :
+
+1. **"Parlez-moi de vous et de votre expérience !"**
+   - **Conseil** : Prépare une courte présentation (2 à 3 minutes) de ton parcours professionnel et des compétences clés que tu as développées. Mets en avant ce qui te rend unique et pourquoi tu es intéressé par le poste.
+
+2. **"Pourquoi voulez-vous travailler ici ?"**
+   - **Conseil** : Fais des recherches sur l'entreprise avant l'entretien. Parle de ce que tu apprécies dans l'entreprise, comme sa mission, ses valeurs ou un projet spécifique, et explique comment cela correspond à tes propres valeurs et objectifs.
+
+3. **"Quels sont vos forces et vos faiblesses ?"**
+   - **Conseil** : Pour tes forces, choisis celles qui sont pertinentes pour le poste. Pour les faiblesses, mentionne une faiblesse que tu travailles à améliorer, en expliquant les étapes que tu prends pour le faire.
+
+4. **"Où vous voyez-vous dans cinq ans ?"**
+   - **Conseil** : Exprime ton ambition de progresser dans ton domaine, tout en montrant que tu es prêt à apprendre et à évoluer avec l'entreprise.
+
+5. **"Pourquoi devrions-nous vous embaucher ?"**
+   - **Conseil** : Résume pourquoi tes compétences, ton expérience et tes qualités personnelles font de toi le meilleur candidat pour le poste. Sois confiant mais humble.
+
+6. **"Quel salaire attendez-vous ?"**
+   - **Conseil** : Fais des recherches sur les salaires moyens pour le poste en question et donne une fourchette qui te semble juste, tout en étant prêt à négocier.
+
+**Exercice pratique** : Choisis une question parmi celles-ci et écris une réponse que tu pourrais donner. Cela t'aidera à te préparer et à te sentir plus à l'aise pendant l'entretien. N'hésite pas à me demander de l'aide si tu veux des conseils pour améliorer ta réponse ! 😊
+
+As-tu une question spécifique à laquelle tu aimerais te préparer ?
+---------------------------------------------
+[2025-05-07 13:07:39] [Utilisateur: web_user_0nvqc3vf3ald] [Étape: WebChat]
+Message utilisateur: 🏠 Menu principal
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 13:07:39] [Utilisateur: web_user_0nvqc3vf3ald] [Étape: Preparation]
+Message utilisateur: 🏠 Menu principal
+Réponse bot: Voici le menu principal :
+---------------------------------------------
+[2025-05-07 14:50:08] [Utilisateur: web_user_puziry073lb] [Étape: WebChat]
+Message utilisateur: ⚙️ Mettre à jour mon profil
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 14:50:08] [Utilisateur: web_user_puziry073lb] [Étape: Introduction]
+Message utilisateur: ⚙️ Mettre à jour mon profil
+Réponse bot: Mettons à jour votre profil. Qu'aimeriez-vous modifier ?
+---------------------------------------------
+[2025-05-07 14:50:19] [Utilisateur: web_user_puziry073lb] [Étape: WebChat]
+Message utilisateur: 🏢 Secteur d'activité
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 14:50:25] [Utilisateur: web_user_puziry073lb] [Étape: Introduction]
+Message utilisateur: 🏢 Secteur d'activité
+Réponse bot: Bonjour ! Je suis ici pour vous aider à vous préparer pour vos entretiens d'embauche. Un entretien d'embauche est une rencontre entre vous et un employeur potentiel pour discuter d'un poste que vous aimeriez occuper. C'est l'occasion de montrer qui vous êtes, de parler de vos compétences et de votre expérience, et de voir si le poste vous convient.
+
+Avant de commencer, pourriez-vous me dire si vous avez déjà passé des entretiens d'embauche auparavant ? Si oui, comment cela s'est-il passé ? Si c'est votre première fois, pas d'inquiétude, je suis là pour vous guider à chaque étape !
+---------------------------------------------
+[2025-05-07 18:43:18] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:43:18] [Utilisateur: web_user_ekqeg10rl6p] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-07 18:43:19] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: C'est parti pour une simulation d'entretien ! Quel type de simulation souhaitez-vous ?
+---------------------------------------------
+[2025-05-07 18:43:50] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: 🚀 Démarrer la simulation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:43:55] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: 🚀 Démarrer la simulation
+Réponse bot: D'accord, commençons notre simulation d'entretien ! Imagine que tu es en face d'un recruteur pour un poste qui t'intéresse. Je vais te poser des questions typiques que l'on pourrait te poser lors d'un entretien. Prends ton temps pour répondre et rappelle-toi que c'est une opportunité pour montrer tes compétences et ton enthousiasme.
+
+Première question : 
+
+**Parle-moi un peu de toi et de ton parcours.**
+
+Prends quelques instants pour réfléchir à ta réponse, puis partage-la avec moi. Je te donnerai ensuite un retour constructif. 😊
+---------------------------------------------
+[2025-05-07 18:47:55] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:47:55] [Utilisateur: web_user_ekqeg10rl6p] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-07 18:47:55] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: C'est parti pour une simulation d'entretien ! Quel type de simulation souhaitez-vous ?
+---------------------------------------------
+[2025-05-07 18:47:56] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: 🎮 Simulation par thème
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:47:59] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: 🎮 Simulation par thème
+Réponse bot: Bien sûr ! Pour rendre cette simulation plus pertinente, pourrais-tu me dire si tu as un thème ou un secteur particulier en tête pour cet entretien ? Si tu n'es pas sûr, je peux te poser des questions générales qui s'appliquent à de nombreux domaines. Fais-moi savoir ce que tu préfères ! 😊
+---------------------------------------------
+[2025-05-07 18:48:10] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: Informatique
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:48:13] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: Informatique
+Réponse bot: Super, concentrons-nous sur le domaine de l'informatique ! Voici une question que tu pourrais rencontrer lors d'un entretien pour un poste dans ce secteur :
+
+**Peux-tu me parler d'un projet informatique sur lequel tu as travaillé et qui t'a particulièrement marqué ?**
+
+Prends ton temps pour répondre en pensant aux étapes que tu as suivies et aux compétences que tu as utilisées. Ensuite, je te donnerai un retour bienveillant. 😊
+---------------------------------------------
+[2025-05-07 18:48:31] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: 🏠 Menu principal
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:48:31] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: 🏠 Menu principal
+Réponse bot: Voici le menu principal :
+---------------------------------------------
+[2025-05-07 18:48:35] [Utilisateur: web_user_ekqeg10rl6p] [Étape: WebChat]
+Message utilisateur: ⚙️ Mettre à jour mon profil
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-07 18:48:35] [Utilisateur: web_user_ekqeg10rl6p] [Étape: Simulation]
+Message utilisateur: ⚙️ Mettre à jour mon profil
+Réponse bot: Mettons à jour votre profil. Qu'aimeriez-vous modifier ?
+---------------------------------------------

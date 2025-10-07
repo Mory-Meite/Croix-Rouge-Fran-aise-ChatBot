@@ -1,0 +1,7 @@
+wwwroot\chat.html
+wwwroot\css\chat.css
+wwwroot\default.htm
+wwwroot\images\Logo.png
+wwwroot\images\office.png
+wwwroot\index.html
+wwwroot\js\chat.js

@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\chat.html",
+      "PackagePath": "staticwebassets\\chat.html"
+    },
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\css\\chat.css",
+      "PackagePath": "staticwebassets\\css\\chat.css"
+    },
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\default.htm",
+      "PackagePath": "staticwebassets\\default.htm"
+    },
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\office.png",
+      "PackagePath": "staticwebassets\\images\\office.png"
+    },
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InterviewChatbot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InterviewChatbot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.InterviewChatbot.props",
+      "PackagePath": "build\\InterviewChatbot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.InterviewChatbot.props",
+      "PackagePath": "buildMultiTargeting\\InterviewChatbot.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.InterviewChatbot.props",
+      "PackagePath": "buildTransitive\\InterviewChatbot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

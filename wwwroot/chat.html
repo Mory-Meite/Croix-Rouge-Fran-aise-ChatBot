@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assistant d'Entretien - Chat</title>
+    <link rel="stylesheet" href="css/chat.css">
+</head>
+<body>
+    <!-- En-tête -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="https://cdn-icons-png.flaticon.com/512/4205/4205906.png" alt="Logo Assistant d'Entretien">
+                <h1>Assistant d'Entretien</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="chat.html">Commencer</a></li>
+                    <li><a href="index.html#about">À propos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Conteneur de chat -->
+    <div class="chat-container">
+        <div class="chat-header">
+            <img src="https://cdn-icons-png.flaticon.com/512/4205/4205906.png" alt="Logo Assistant" style="height: 30px;">
+            <h2>Assistant d'Entretien</h2>
+        </div>
+        <div class="chat-messages" id="chat-messages">
+            <!-- Les messages seront ajoutés ici dynamiquement -->
+        </div>
+        <div class="chat-options" id="chat-options">
+            <!-- Les boutons d'options seront ajoutés ici dynamiquement -->
+        </div>
+        <form class="chat-form" id="chat-form">
+            <input type="text" id="chat-input" placeholder="Tapez votre message ici..." autofocus>
+            <button type="submit">Envoyer</button>
+        </form>
+    </div>
+
+    <!-- Pied de page -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <!-- Script JavaScript -->
+    <script src="js/chat.js"></script>
+
+    <script>
+        // En attendant l'intégration complète avec l'API du bot, utilisez cette fonction pour simuler les réponses
+        document.addEventListener('DOMContentLoaded', function() {
+            const originalSendMessageToBot = sendMessageToBot;
+            
+            // Remplacer temporairement la fonction sendMessageToBot par simulateResponse
+            window.sendMessageToBot = function(message) {
+                // Afficher l'indicateur de frappe
+                showTyping();
+                
+                // Variables pour simuler l'état de l'évaluation
+                let evaluationMode = false;
+                let evaluationStep = 0;
+                const evaluationQuestions = [
+                    "Pour commencer, quel est ton niveau de familiarité avec les entretiens d'embauche ? Est-ce une expérience nouvelle pour toi ou en as-tu déjà passé ?",
+                    "Y a-t-il des aspects spécifiques des entretiens qui t'inquiètent le plus en ce moment ?",
+                    "As-tu déjà rencontré des obstacles ou des difficultés particulières lors de tes recherches d'emploi ou d'entretiens précédents ?",
+                    "Te sens-tu à l'aise pour parler de tes expériences professionnelles ou de ton parcours ?",
+                    "Préfères-tu t'entraîner sur des situations très concrètes et réalistes, ou plutôt des scénarios progressifs et plus simples au début ?"
+                ];
+                
+                // Après un délai, simuler une réponse
+                setTimeout(function() {
+                    let response = "Je traite votre message...";
+                    let options = [];
+                    
+                    // Simulation des évaluations de profil
+                    if (message.includes("Évaluer mon profil") || message.includes("👤")) {
+                        response = "Bienvenue dans l'évaluation de profil ! Je vais te poser quelques questions pour mieux comprendre tes besoins et adapter nos sessions d'entraînement. Tu peux répondre simplement et honnêtement. Prêt à commencer ?";
+                        options = [
+                            "✅ Commencer l'évaluation",
+                            "⏩ Passer cette étape"
+                        ];
+                        evaluationMode = true;
+                        evaluationStep = 0;
+                    } 
+                    else if (message.includes("Commencer l'évaluation")) {
+                        response = evaluationQuestions[0];
+                        evaluationMode = true;
+                        evaluationStep = 1;
+                        options = [];
+                    }
+                    else if (message.includes("Passer cette étape")) {
+                        response = "D'accord, nous utiliserons un profil standard. Comment puis-je vous aider aujourd'hui ?";
+                        options = [
+                            "📋 Commencer la préparation",
+                            "💬 Simuler un entretien",
+                            "❓ Conseils généraux"
+                        ];
+                        evaluationMode = false;
+                    }
+                    // Gérer les réponses aux questions d'évaluation
+                    else if (evaluationMode && evaluationStep > 0 && evaluationStep <= evaluationQuestions.length) {
+                        // Passer à la question suivante
+                        evaluationStep++;
+                        
+                        if (evaluationStep <= evaluationQuestions.length) {
+                            response = evaluationQuestions[evaluationStep-1];
+                            options = [];
+                        } else {
+                            // Fin de l'évaluation
+                            response = "Merci pour tes réponses ! J'ai maintenant une meilleure compréhension de tes besoins. J'ai adapté nos futures sessions selon ton profil.";
+                            options = [
+                                "📋 Commencer la préparation",
+                                "💬 Simuler un entretien",
+                                "❓ Conseils généraux"
+                            ];
+                            evaluationMode = false;
+                        }
+                    }
+                    // Simulation de réponses basées sur des mots-clés simples
+                    else if (message.includes("préparation") || message.includes("📋")) {
+                        response = "Préparons-nous pour votre entretien ! Voici quelques options pour vous aider :";
+                        options = [
+                            "🔍 Rechercher l'entreprise",
+                            "🗣️ Questions fréquentes",
+                            "👔 Conseils de présentation",
+                            "📝 Préparer mes réponses",
+                            "🏠 Retour au menu principal"
+                        ];
+                    } else if (message.includes("simuler") || message.includes("entretien") || message.includes("💬")) {
+                        response = "C'est parti pour une simulation d'entretien ! Quel type de simulation souhaitez-vous ?";
+                        options = [
+                            "🚀 Démarrer la simulation",
+                            "⏱️ Simulation courte (5-10 min)",
+                            "⏳ Simulation complète (15-20 min)",
+                            "🎮 Simulation par thème",
+                            "🏠 Retour au menu principal"
+                        ];
+                    } else if (message.includes("feedback") || message.includes("📊")) {
+                        response = "Vous n'avez pas encore assez d'historique pour un feedback détaillé. Essayez d'abord une simulation d'entretien !";
+                        options = [
+                            "💬 Simuler un entretien",
+                            "🏠 Retour au menu principal"
+                        ];
+                    } else if (message.includes("conseils") || message.includes("❓")) {
+                        response = "Voici quelques conseils généraux pour réussir votre entretien :<br><br>• Préparez-vous en recherchant l'entreprise<br>• Entraînez-vous à répondre aux questions courantes<br>• Préparez des questions à poser au recruteur<br>• Soignez votre présentation<br>• Arrivez 10-15 minutes en avance";
+                        options = [
+                            "📋 Commencer la préparation",
+                            "💬 Simuler un entretien",
+                            "🏠 Retour au menu principal"
+                        ];
+                    } else if (message.includes("profil") || message.includes("⚙️")) {
+                        response = "Mettons à jour votre profil. Qu'aimeriez-vous modifier ?";
+                        options = [
+                            "🏢 Secteur d'activité",
+                            "📊 Niveau d'expérience",
+                            "🗣️ Niveau de langue",
+                            "💻 Compétences numériques",
+                            "🏠 Retour au menu principal"
+                        ];
+                    } else if (message.includes("menu") || message.includes("🏠")) {
+                        response = "Voici le menu principal. Comment puis-je vous aider ?";
+                        options = [
+                            "👤 Évaluer mon profil",
+                            "📋 Commencer la préparation",
+                            "💬 Simuler un entretien",
+                            "📊 Voir mon feedback",
+                            "❓ Conseils généraux",
+                            "⚙️ Mettre à jour mon profil"
+                        ];
+                    } else {
+                        response = "Désolé, je n'ai pas bien compris votre demande. Pourriez-vous choisir l'une des options ci-dessous ?";
+                        options = [
+                            "👤 Évaluer mon profil",
+                            "📋 Commencer la préparation",
+                            "💬 Simuler un entretien",
+                            "❓ Conseils généraux",
+                            "🏠 Menu principal"
+                        ];
+                    }
+                    
+                    // Ajouter le message du bot
+                    addBotMessage(response);
+                    
+                    // Afficher les options
+                    showOptions(options);
+                }, 1000);
+            };
+        });
+    </script>
+</body>
+</html> 

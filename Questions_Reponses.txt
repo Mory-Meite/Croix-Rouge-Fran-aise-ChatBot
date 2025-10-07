@@ -1,0 +1,26 @@
+voici 5 à 10 questions que l'on pourrait poser dans un chatbot de préparation aux entretiens d'embauche pour une personne vulnérable, suivies des instructions pour le chatbot basées sur les réponses.
+Ces questions sont conçues pour être ouvertes, bienveillantes et non jugeantes, afin d'encourager la personne à partager ses éventuelles appréhensions ou difficultés.
+Questions pour sonder les vulnérabilités :
+ * "Bonjour ! Pour commencer, quel est ton niveau de familiarité avec les entretiens d'embauche ? Est-ce une expérience nouvelle pour toi ou en as-tu déjà passé ?"
+ * "Y a-t-il des aspects spécifiques des entretiens qui t'inquiètent le plus en ce moment ? (Par exemple : parler de toi, répondre à des questions difficiles, gérer le stress ?)"
+ * "As-tu déjà rencontré des obstacles ou des difficultés particulières lors de tes recherches d'emploi ou d'entretiens précédents ?"
+ * "Te sens-tu à l'aise pour parler de tes expériences professionnelles ou de ton parcours jusqu'à présent ? Y a-t-il des périodes que tu préférerais aborder avec prudence ?"
+ * "Y a-t-il des aménagements ou des besoins spécifiques dont tu aimerais que nous tenions compte pour rendre cette préparation aussi confortable et efficace que possible pour toi ? (Cela peut concerner le rythme, la façon de communiquer, etc.)"
+ * "Comment te sens-tu généralement face à l'idée de te "vendre" ou de mettre en avant tes compétences et qualités ?"
+ * "As-tu des appréhensions concernant les questions sur d'éventuelles "lacunes" dans ton parcours (périodes sans emploi, changements fréquents, manque d'expérience spécifique) ?"
+ * "Préfères-tu t'entraîner sur des situations très concrètes et réalistes, ou plutôt des scénarios progressifs et plus simples au début ?"
+ * "Y a-t-il des sujets que tu appréhendes d'aborder avec un futur employeur ? (Par exemple : état de santé, situation personnelle, casier judiciaire, etc. - Attention, cette question doit être posée avec une grande délicatesse et la personne doit se sentir libre de ne pas y répondre)"
+ * "Quel est ton mode de communication préféré pour apprendre et t'entraîner ? (Plutôt par écrit, préférerais-tu des courtes simulations audio si possible, des exemples visuels ?)"
+Instructions pour le Chatbot basées sur les réponses :
+En fonction des réponses à ces questions, le chatbot doit pouvoir adapter son approche et le contenu de l'entraînement. Voici des instructions possibles :
+ * Si la personne indique peu ou pas d'expérience en entretien (Q1) ou une forte anxiété (Q2) :
+   * Instruction : Commencer par les bases. Expliquer le déroulement type d'un entretien, les différents types de questions. Proposer des exercices très progressifs, en commençant par se présenter de manière simple. Mettre l'accent sur la bienveillance et dédramatiser l'exercice.
+ * Si des obstacles ou difficultés passées sont mentionnés (Q3), ou une appréhension sur certains sujets (Q4, Q7, Q9) :
+   * Instruction : Aborder ces points avec empathie. Proposer des stratégies pour transformer ces "difficultés" en points positifs ou en leçons apprises. Préparer des réponses positives et constructives pour les questions délicates, en se concentrant sur l'avenir et la motivation actuelle. Rappeler les droits de la personne si nécessaire (questions discriminatoires).
+ * Si des besoins ou aménagements spécifiques sont demandés (Q5) ou un mode de communication préféré est exprimé (Q10) :
+   * Instruction : Intégrer ces éléments dans le programme. Adapter le rythme de l'entraînement, privilégier le format de communication souhaité (plus d'exemples écrits, proposer des courtes simulations audio si l'outil le permet, utiliser des visuels). Si un aménagement concret est évoqué (ex: besoin de pauses fréquentes), intégrer cette possibilité.
+ * Si la personne appréhende de se "vendre" (Q6) :
+   * Instruction : Travailler sur la valorisation de soi de manière authentique. Aider à identifier les compétences transférables et les qualités personnelles au-delà de l'expérience professionnelle formelle. Proposer des exercices pour reformuler les expériences négatives en apprentissages.
+ * Si une préférence pour des scénarios progressifs ou réalistes est exprimée (Q8) :
+   * Instruction : Ajuster la difficulté des simulations. Commencer par des mises en situation simples si la personne préfère un apprentissage progressif, ou proposer rapidement des scénarios plus complexes si elle se sent prête pour des défis réalistes.
+En résumé, le chatbot doit utiliser les réponses à ces questions pour créer un profil de l'utilisateur et personnaliser l'ensemble du parcours d'entraînement. L'objectif est de construire un environnement d'apprentissage sûr, adapté et encourageant, qui tient compte des vulnérabilités pour mieux les surmonter.

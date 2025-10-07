@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "InterviewChatbot.Controllers.BotController",
+    "Method": "PostAsync",
+    "RelativePath": "api/messages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InterviewChatbot.Controllers.BotController",
+    "Method": "PostAsync",
+    "RelativePath": "api/messages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InterviewChatbot.Controllers.WebChatController",
+    "Method": "PostMessage",
+    "RelativePath": "api/webchat/messages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InterviewChatbot.Controllers.WebChatController\u002BWebChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

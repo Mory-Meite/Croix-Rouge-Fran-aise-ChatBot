@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "dw+PhZYXGOjideDvFBcYcVf+sjW5SxKYjBpFJf4vVSc=",
+  "Source": "InterviewChatbot",
+  "BasePath": "_content/InterviewChatbot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InterviewChatbot\\wwwroot",
+      "Source": "InterviewChatbot",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\chat.html",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "chat#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qboci5ykco",
+      "Integrity": "2lPLqTSZDOL+ffcD2HoqKGqffLvm+MSlaHh4GDRKYjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chat.html"
+    },
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\css\\chat.css",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "css/chat#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pelyebjs5f",
+      "Integrity": "4aqC5vjh7IoTba1EbSQz2iehE3JgH6xiPakJ+en3BW4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\chat.css"
+    },
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\default.htm",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "default#[.{fingerprint}]?.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d3r5ni5uui",
+      "Integrity": "aee9DNv64LN3lXEJquNojrb9T/PJSNDfVYOX4TKZYqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    },
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\Logo.png",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "images/Logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5nqrbpvjus",
+      "Integrity": "X6E4c6Q3xjPZXsqmhHXV4hfF8PsE6DlNo4fNpsA80x0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\office.png",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "images/office#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oxip5gsevz",
+      "Integrity": "HNEkULJfBixBy0NdIIOWFMn4ByEajuTH4vqBvPJcE5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\office.png"
+    },
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\index.html",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sqw5wsnl7a",
+      "Integrity": "BPV21Ze9nj9yz4w1eEM85cKQ+A2T+mx0dv2U9c2J5CM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\js\\chat.js",
+      "SourceId": "InterviewChatbot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\",
+      "BasePath": "_content/InterviewChatbot",
+      "RelativePath": "js/chat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s68vnggdrt",
+      "Integrity": "zM0YvYrodOWUp4hr/K7BKnbOmaTJux8uOmLkkADqgmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "chat.html",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\chat.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2lPLqTSZDOL+ffcD2HoqKGqffLvm+MSlaHh4GDRKYjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2lPLqTSZDOL+ffcD2HoqKGqffLvm+MSlaHh4GDRKYjQ="
+        }
+      ]
+    },
+    {
+      "Route": "chat.qboci5ykco.html",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\chat.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2lPLqTSZDOL+ffcD2HoqKGqffLvm+MSlaHh4GDRKYjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qboci5ykco"
+        },
+        {
+          "Name": "label",
+          "Value": "chat.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2lPLqTSZDOL+ffcD2HoqKGqffLvm+MSlaHh4GDRKYjQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/chat.css",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\css\\chat.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aqC5vjh7IoTba1EbSQz2iehE3JgH6xiPakJ+en3BW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4aqC5vjh7IoTba1EbSQz2iehE3JgH6xiPakJ+en3BW4="
+        }
+      ]
+    },
+    {
+      "Route": "css/chat.pelyebjs5f.css",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\css\\chat.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4aqC5vjh7IoTba1EbSQz2iehE3JgH6xiPakJ+en3BW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pelyebjs5f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/chat.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4aqC5vjh7IoTba1EbSQz2iehE3JgH6xiPakJ+en3BW4="
+        }
+      ]
+    },
+    {
+      "Route": "default.d3r5ni5uui.htm",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aee9DNv64LN3lXEJquNojrb9T/PJSNDfVYOX4TKZYqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 20:22:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d3r5ni5uui"
+        },
+        {
+          "Name": "label",
+          "Value": "default.htm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aee9DNv64LN3lXEJquNojrb9T/PJSNDfVYOX4TKZYqc="
+        }
+      ]
+    },
+    {
+      "Route": "default.htm",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aee9DNv64LN3lXEJquNojrb9T/PJSNDfVYOX4TKZYqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 20:22:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aee9DNv64LN3lXEJquNojrb9T/PJSNDfVYOX4TKZYqc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logo.5nqrbpvjus.png",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\Logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6E4c6Q3xjPZXsqmhHXV4hfF8PsE6DlNo4fNpsA80x0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5nqrbpvjus"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6E4c6Q3xjPZXsqmhHXV4hfF8PsE6DlNo4fNpsA80x0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logo.png",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\Logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6E4c6Q3xjPZXsqmhHXV4hfF8PsE6DlNo4fNpsA80x0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 16:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6E4c6Q3xjPZXsqmhHXV4hfF8PsE6DlNo4fNpsA80x0="
+        }
+      ]
+    },
+    {
+      "Route": "images/office.oxip5gsevz.png",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\office.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HNEkULJfBixBy0NdIIOWFMn4ByEajuTH4vqBvPJcE5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 15:22:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxip5gsevz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/office.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HNEkULJfBixBy0NdIIOWFMn4ByEajuTH4vqBvPJcE5U="
+        }
+      ]
+    },
+    {
+      "Route": "images/office.png",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\images\\office.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HNEkULJfBixBy0NdIIOWFMn4ByEajuTH4vqBvPJcE5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 15:22:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HNEkULJfBixBy0NdIIOWFMn4ByEajuTH4vqBvPJcE5U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPV21Ze9nj9yz4w1eEM85cKQ+A2T+mx0dv2U9c2J5CM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPV21Ze9nj9yz4w1eEM85cKQ+A2T+mx0dv2U9c2J5CM="
+        }
+      ]
+    },
+    {
+      "Route": "index.sqw5wsnl7a.html",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BPV21Ze9nj9yz4w1eEM85cKQ+A2T+mx0dv2U9c2J5CM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sqw5wsnl7a"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BPV21Ze9nj9yz4w1eEM85cKQ+A2T+mx0dv2U9c2J5CM="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zM0YvYrodOWUp4hr/K7BKnbOmaTJux8uOmLkkADqgmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zM0YvYrodOWUp4hr/K7BKnbOmaTJux8uOmLkkADqgmk="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.s68vnggdrt.js",
+      "AssetFile": "C:\\Users\\THINKPAD\\Desktop\\Chatbot-test\\Projet Croix-Rouge\\InterviewChatbot\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zM0YvYrodOWUp4hr/K7BKnbOmaTJux8uOmLkkADqgmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 17:10:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s68vnggdrt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zM0YvYrodOWUp4hr/K7BKnbOmaTJux8uOmLkkADqgmk="
+        }
+      ]
+    }
+  ]
+}

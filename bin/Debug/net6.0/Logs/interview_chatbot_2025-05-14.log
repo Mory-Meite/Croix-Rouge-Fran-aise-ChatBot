@@ -1,0 +1,699 @@
+﻿[2025-05-14 17:31:04] [Utilisateur: web_user_tcqe9cs47gc] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:31:04] [Utilisateur: web_user_tcqe9cs47gc] [Étape: Introduction]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Je n'ai pas compris votre sélection. Voici le menu principal :
+---------------------------------------------
+[2025-05-14 17:31:09] [Utilisateur: web_user_tcqe9cs47gc] [Étape: WebChat]
+Message utilisateur: 🗣️ Questions fréquentes
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:31:09] [Utilisateur: web_user_tcqe9cs47gc] [Étape: Introduction]
+Message utilisateur: 🗣️ Questions fréquentes
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 17:41:36] [Utilisateur: web_user_yozsbnczang] [Étape: WebChat]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:41:36] [Utilisateur: web_user_yozsbnczang] [Étape: Introduction]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Je n'ai pas compris votre sélection. Voici le menu principal :
+---------------------------------------------
+[2025-05-14 17:41:55] [Utilisateur: web_user_ksuxsr6zkp] [Étape: WebChat]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:52:20] [Utilisateur: web_user_qdskv8mymko] [Étape: WebChat]
+Message utilisateur: ❓ Conseils généraux
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:52:32] [Utilisateur: web_user_qdskv8mymko] [Étape: Introduction]
+Message utilisateur: ❓ Conseils généraux
+Réponse bot: Bien sûr, voici quelques conseils pour t'aider à réussir ton entretien d'embauche :
+
+1. **Prépare-toi à l'avance** : Fais des recherches sur l'entreprise et le poste pour lequel tu postules. Essaie de comprendre ses valeurs, ses missions et ses principaux projets.
+
+2. **Pratique tes réponses** : Réfléchis aux questions courantes comme "Parlez-moi de vous", "Quelles sont vos forces et faiblesses ?" et "Pourquoi voulez-vous travailler ici ?" Prépare des réponses claires et concises.
+
+3. **Sois ponctuel** : Arrive quelques minutes en avance. Si l'entretien est en ligne, assure-toi que ta connexion internet fonctionne bien et que tu sais utiliser la plateforme (comme Zoom ou Skype).
+
+4. **Habille-toi de manière appropriée** : Choisis une tenue professionnelle qui te met en confiance et qui est adaptée à la culture de l'entreprise.
+
+5. **Écoute attentivement** : Fais attention aux questions posées et prends un moment pour réfléchir avant de répondre. N'hésite pas à demander des précisions si tu ne comprends pas quelque chose.
+
+6. **Pose des questions** : Prépare quelques questions à poser à l'intervieweur sur le poste ou l'entreprise. Cela montre ton intérêt et ta motivation.
+
+7. **Reste positif et confiant** : Garde une attitude positive, même si tu parles d'expériences difficiles. Mets l'accent sur ce que tu as appris et comment tu t'es amélioré.
+
+8. **Remercie à la fin** : À la fin de l'entretien, remercie l'intervieweur pour son temps et l'opportunité. Cela laisse une bonne impression.
+
+Ces conseils devraient t'aider à te préparer et à te sentir plus à l'aise lors de ton entretien. Bon courage !
+---------------------------------------------
+[2025-05-14 17:52:37] [Utilisateur: web_user_qdskv8mymko] [Étape: WebChat]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:52:38] [Utilisateur: web_user_qdskv8mymko] [Étape: Introduction]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 17:53:27] [Utilisateur: web_user_0qu450f25k8] [Étape: WebChat]
+Message utilisateur: ❓ General tips
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:53:27] [Utilisateur: web_user_0qu450f25k8] [Étape: Introduction]
+Message utilisateur: ❓ General tips
+Réponse bot: Je n'ai pas compris votre sélection. Voici le menu principal :
+---------------------------------------------
+[2025-05-14 17:53:54] [Utilisateur: web_user_0qu450f25k8] [Étape: WebChat]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:53:54] [Utilisateur: web_user_0qu450f25k8] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 17:53:54] [Utilisateur: web_user_0qu450f25k8] [Étape: Simulation]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: C'est parti pour une simulation d'entretien ! Quel type de simulation souhaitez-vous ?
+---------------------------------------------
+[2025-05-14 17:53:56] [Utilisateur: web_user_0qu450f25k8] [Étape: WebChat]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 17:53:56] [Utilisateur: web_user_0qu450f25k8] [Étape: Introduction]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 18:00:21] [Utilisateur: web_user_zao1xbif439] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 18:00:21] [Utilisateur: web_user_zao1xbif439] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 18:00:21] [Utilisateur: web_user_zao1xbif439] [Étape: Preparation]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Préparons-nous pour votre entretien ! Voici quelques options pour vous aider :
+---------------------------------------------
+[2025-05-14 18:00:24] [Utilisateur: web_user_zao1xbif439] [Étape: WebChat]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 18:00:24] [Utilisateur: web_user_zao1xbif439] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 18:06:00] [Utilisateur: web_user_gdveectkyi] [Étape: WebChat]
+Message utilisateur: ❓ General tips
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 18:06:10] [Utilisateur: web_user_gdveectkyi] [Étape: Introduction]
+Message utilisateur: ❓ General tips
+Réponse bot: Bien sûr, voici quelques conseils pour t'aider à réussir ton entretien d'embauche :
+
+1. **Préparation** : Renseigne-toi sur l'entreprise et le poste. Connaître les valeurs et les missions de l'entreprise te permettra de mieux comprendre ce qu'ils recherchent.
+
+2. **Simuler l'entretien** : Entraîne-toi à répondre aux questions courantes, comme "Parlez-moi de vous" ou "Quels sont vos points forts et vos faiblesses ?". Cela te permettra de te sentir plus à l'aise.
+
+3. **Présente-toi bien** : Choisis une tenue appropriée pour l'entretien, même si c'est en ligne. Cela montre ton professionnalisme.
+
+4. **Communication claire** : Parle lentement et clairement. N'hésite pas à demander des précisions si une question n'est pas claire.
+
+5. **Être ponctuel** : Arrive quelques minutes en avance. Si l'entretien est en ligne, vérifie que ta connexion Internet fonctionne bien.
+
+6. **Positivité et confiance** : Montre de l'enthousiasme pour le poste. Souris et regarde ton interlocuteur dans les yeux (ou la caméra).
+
+7. **Poser des questions** : Prépare quelques questions à poser à la fin de l'entretien. Cela montre ton intérêt pour le poste et l'entreprise.
+
+N'oublie pas que chaque entretien est une opportunité d'apprendre et de s'améliorer. Bonne chance !
+---------------------------------------------
+[2025-05-14 18:06:16] [Utilisateur: web_user_gdveectkyi] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 18:06:16] [Utilisateur: web_user_gdveectkyi] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 18:06:16] [Utilisateur: web_user_gdveectkyi] [Étape: Preparation]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Préparons-nous pour votre entretien ! Voici quelques options pour vous aider :
+---------------------------------------------
+[2025-05-14 18:06:20] [Utilisateur: web_user_gdveectkyi] [Étape: WebChat]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 18:06:20] [Utilisateur: web_user_gdveectkyi] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 18:06:20] [Utilisateur: web_user_gdveectkyi] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 18:06:25] [Utilisateur: web_user_gdveectkyi] [Étape: WebChat]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 18:06:25] [Utilisateur: web_user_gdveectkyi] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 18:06:25] [Utilisateur: web_user_gdveectkyi] [Étape: Simulation]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: C'est parti pour une simulation d'entretien ! Quel type de simulation souhaitez-vous ?
+---------------------------------------------
+[2025-05-14 18:06:50] [Utilisateur: 7c6f3629-d125-4d3e-aa03-466c5ae421bf] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 18:07:04] [Utilisateur: 7c6f3629-d125-4d3e-aa03-466c5ae421bf] [Étape: Preparation]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Parfait, commençons par les étapes clés pour se préparer à un entretien d'embauche. Voici quelques conseils pratiques :
+
+1. **Rechercher l'entreprise :**
+   - Renseignez-vous sur l'entreprise : son histoire, ses produits ou services, sa culture et ses valeurs.
+   - Consultez leur site web et leurs réseaux sociaux pour connaître les dernières actualités.
+
+2. **Préparer des réponses :**
+   - Anticipez les questions courantes, comme "Parlez-moi de votre expérience" ou "Quels sont vos défauts ?"
+   - Préparez des réponses précises et positives. Par exemple, pour parler de vos défauts, vous pourriez dire : "On me dit parfois que je suis trop pointilleux, mais je pense que cela m'aide à être efficace."
+
+3. **Questions à poser :**
+   - Préparez quelques questions à poser à la fin de l'entretien. Cela montre votre intérêt pour le poste et l'entreprise. Par exemple : "Pouvez-vous me parler davantage de l'équipe avec laquelle je travaillerais ?"
+
+4. **Pratiquer l'entretien :**
+   - Entraînez-vous avec un ami ou seul devant un miroir. Pratiquez vos réponses pour être plus à l'aise le jour J.
+
+5. **Tenue et logistique :**
+   - Choisissez une tenue professionnelle adaptée au poste.
+   - Planifiez votre trajet pour arriver à l'heure, voire un peu en avance.
+
+Ces étapes vous aideront à être plus confiant et à montrer votre sérieux lors de l'entretien. Avez-vous des questions sur l'une de ces étapes ou un aspect particulier de la préparation ?
+---------------------------------------------
+[2025-05-14 18:07:18] [Utilisateur: 7c6f3629-d125-4d3e-aa03-466c5ae421bf] [Étape: Preparation]
+Message utilisateur: Switch language
+Réponse bot: D'accord, abordons ensemble la phase de préparation pour réussir votre entretien d'embauche. Voici quelques étapes clés à suivre :
+
+### 1. **Rechercher l'entreprise :**
+   - **Pourquoi ?** : Cela montre votre intérêt et vous aide à comprendre si l'entreprise vous convient.
+   - **Comment ?** : Consultez leur site web, lisez des articles récents à leur sujet et parcourez leurs profils sur les réseaux sociaux.
+
+### 2. **Préparer des réponses :**
+   - **Questions courantes :**
+     - « Parlez-moi de votre expérience ! »
+     - « Quels sont vos défauts ? »
+   - **Conseils :**
+     - Préparez des réponses précises et positives. Par exemple, au lieu de dire "Je n'ai pas beaucoup d'expérience", vous pouvez dire "J'ai eu l'opportunité d'apprendre rapidement lors de mes précédents postes."
+     - Mettez en avant vos compétences et expériences pertinentes.
+
+### 3. **Questions à poser :**
+   - **Pourquoi ?** : Poser des questions montre votre engagement et vous aide à savoir si le poste vous convient.
+   - **Exemples de questions :**
+     - « Pouvez-vous décrire une journée type dans ce poste ? »
+     - « Quelles sont les opportunités de développement professionnel ? »
+
+### 4. **Pratiquer l'entretien :**
+   - **Pourquoi ?** : La pratique réduit le stress et améliore votre confiance.
+   - **Comment ?** : Entraînez-vous devant un miroir ou avec un ami. Simulez des entretiens pour vous habituer aux questions.
+
+### 5. **Tenue et logistique :**
+   - **Tenue :** Choisissez une tenue professionnelle et confortable.
+   - **Logistique :** Planifiez votre trajet pour arriver à l'heure, voire un peu en avance. Vérifiez l'adresse et les options de transport.
+
+Chacune de ces étapes vous aidera à être plus serein et préparé pour votre entretien. N'hésitez pas à poser des questions si quelque chose n'est pas clair ou si vous souhaitez des conseils sur un point spécifique. Quelle étape aimeriez-vous approfondir ?
+---------------------------------------------
+[2025-05-14 20:22:21] [Utilisateur: web_user_gdveectkyi] [Étape: WebChat]
+Message utilisateur: I want a short simulation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 20:22:21] [Utilisateur: web_user_gdveectkyi] [Étape: Introduction]
+Message utilisateur: I want a short simulation
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 20:22:21] [Utilisateur: web_user_gdveectkyi] [Étape: Introduction]
+Message utilisateur: I want a short simulation
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 20:37:25] [Utilisateur: web_user_lcbvzaf385g] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 20:37:25] [Utilisateur: web_user_lcbvzaf385g] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 20:37:25] [Utilisateur: web_user_lcbvzaf385g] [Étape: Preparation]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Préparons-nous pour votre entretien ! Voici quelques options pour vous aider :
+---------------------------------------------
+[2025-05-14 21:02:10] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: ❓ General tips
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:20] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: ❓ General tips
+Réponse bot: Certainly! Here are some practical tips tailored to your skill level to help you succeed in a job interview:
+
+1. **Research the Company**: Spend some time online learning about the company. Know their mission, values, and recent news. This shows you are genuinely interested in the organization.
+
+2. **Practice Common Questions**: Prepare answers for common questions like "Tell me about yourself" or "Why do you want this job?" Practice speaking clearly and confidently. You can even record yourself to improve.
+
+3. **Highlight Your Strengths**: Think about your skills and experiences that are most relevant to the job. Be ready to discuss these with specific examples.
+
+4. **Ask Questions**: Prepare a few questions to ask the interviewer about the company and the role. This shows your interest and engagement.
+
+5. **Dress Appropriately**: Choose clothing that is professional and appropriate for the job you're applying for. This creates a positive first impression.
+
+6. **Be Punctual**: Arrive at least 10-15 minutes early for the interview. This shows you are reliable and respect the interviewer's time.
+
+7. **Digital Readiness**: If your interview is online, ensure your device is charged, your internet connection is stable, and you know how to use the video conferencing software in advance.
+
+8. **Body Language**: Maintain eye contact, smile, and offer a firm handshake (if in person). These non-verbal cues convey confidence.
+
+9. **Follow Up**: Send a thank-you email after your interview. Express gratitude for the opportunity and briefly reiterate your interest in the position.
+
+Remember, interviews are not just about assessing you; they're also an opportunity for you to assess if the company is the right fit for you. Good luck!
+---------------------------------------------
+[2025-05-14 21:02:36] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:36] [Utilisateur: web_user_pf6z2grztfg] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 21:02:36] [Utilisateur: web_user_pf6z2grztfg] [Étape: Preparation]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Let's prepare for your interview! Here are some options to help you:
+---------------------------------------------
+[2025-05-14 21:02:38] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 🗣️ Frequently asked questions
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:38] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🗣️ Frequently asked questions
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:38] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🗣️ Frequently asked questions
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:44] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:44] [Utilisateur: web_user_pf6z2grztfg] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 21:02:44] [Utilisateur: web_user_pf6z2grztfg] [Étape: Simulation]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Let's start an interview simulation! What type of simulation would you like?
+---------------------------------------------
+[2025-05-14 21:02:46] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: ⏱️ Short simulation (5-10 min)
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:46] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: ⏱️ Short simulation (5-10 min)
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:46] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: ⏱️ Short simulation (5-10 min)
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:48] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:48] [Utilisateur: web_user_pf6z2grztfg] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 21:02:48] [Utilisateur: web_user_pf6z2grztfg] [Étape: Simulation]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Let's start an interview simulation! What type of simulation would you like?
+---------------------------------------------
+[2025-05-14 21:02:49] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: ⏳ Complete simulation (15-20 min)
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:49] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: ⏳ Complete simulation (15-20 min)
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:49] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: ⏳ Complete simulation (15-20 min)
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:50] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:50] [Utilisateur: web_user_pf6z2grztfg] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 21:02:50] [Utilisateur: web_user_pf6z2grztfg] [Étape: Simulation]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Let's start an interview simulation! What type of simulation would you like?
+---------------------------------------------
+[2025-05-14 21:02:51] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 🎮 Simulation by theme
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:02:51] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🎮 Simulation by theme
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:02:51] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🎮 Simulation by theme
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:03:00] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:03:00] [Utilisateur: web_user_pf6z2grztfg] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 21:03:00] [Utilisateur: web_user_pf6z2grztfg] [Étape: Preparation]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Let's prepare for your interview! Here are some options to help you:
+---------------------------------------------
+[2025-05-14 21:03:03] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:03:03] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:03:03] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:03:10] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: ⚙️ Update my profile
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:03:10] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: ⚙️ Update my profile
+Réponse bot: Let's update your profile. What would you like to modify?
+---------------------------------------------
+[2025-05-14 21:03:13] [Utilisateur: web_user_pf6z2grztfg] [Étape: WebChat]
+Message utilisateur: 🏢 Industry sector
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:03:13] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🏢 Industry sector
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:03:13] [Utilisateur: web_user_pf6z2grztfg] [Étape: Introduction]
+Message utilisateur: 🏢 Industry sector
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:03:33] [Utilisateur: web_user_9rfv2uarqom] [Étape: WebChat]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:03:33] [Utilisateur: web_user_9rfv2uarqom] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 21:03:33] [Utilisateur: web_user_9rfv2uarqom] [Étape: Preparation]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Préparons-nous pour votre entretien ! Voici quelques options pour vous aider :
+---------------------------------------------
+[2025-05-14 21:03:34] [Utilisateur: web_user_9rfv2uarqom] [Étape: WebChat]
+Message utilisateur: 🔍 Rechercher l'entreprise
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:03:35] [Utilisateur: web_user_9rfv2uarqom] [Étape: Introduction]
+Message utilisateur: 🔍 Rechercher l'entreprise
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 21:03:35] [Utilisateur: web_user_9rfv2uarqom] [Étape: Introduction]
+Message utilisateur: 🔍 Rechercher l'entreprise
+Réponse bot: Bonjour ! Je suis votre assistant virtuel pour vous aider à préparer vos entretiens d'embauche. Comment puis-je vous aider aujourd'hui ?
+---------------------------------------------
+[2025-05-14 21:20:07] [Utilisateur: web_user_yf7kagkrzv] [Étape: WebChat]
+Message utilisateur: LANGUAGE_CHANGE:en
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:20:07] [Utilisateur: web_user_yf7kagkrzv] [Étape: WebChat]
+Message utilisateur: LANGUAGE_CHANGE:en
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:20:07] [Utilisateur: web_user_yf7kagkrzv] [Étape: Introduction]
+Message utilisateur: LANGUAGE_CHANGE:en
+Réponse bot: Language changed to English.
+---------------------------------------------
+[2025-05-14 21:20:07] [Utilisateur: web_user_yf7kagkrzv] [Étape: Introduction]
+Message utilisateur: LANGUAGE_CHANGE:en
+Réponse bot: Language changed to English.
+---------------------------------------------
+[2025-05-14 21:20:12] [Utilisateur: web_user_yf7kagkrzv] [Étape: WebChat]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:20:12] [Utilisateur: web_user_yf7kagkrzv] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 21:20:12] [Utilisateur: web_user_yf7kagkrzv] [Étape: Preparation]
+Message utilisateur: 📋 Start preparation
+Réponse bot: Let's prepare for your interview! Here are some options to help you:
+---------------------------------------------
+[2025-05-14 21:20:15] [Utilisateur: web_user_yf7kagkrzv] [Étape: WebChat]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:20:15] [Utilisateur: web_user_yf7kagkrzv] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:20:15] [Utilisateur: web_user_yf7kagkrzv] [Étape: Introduction]
+Message utilisateur: 🔍 Research the company
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:20:18] [Utilisateur: web_user_yf7kagkrzv] [Étape: WebChat]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:20:18] [Utilisateur: web_user_yf7kagkrzv] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 21:20:18] [Utilisateur: web_user_yf7kagkrzv] [Étape: Simulation]
+Message utilisateur: 💬 Simulate an interview
+Réponse bot: Let's start an interview simulation! What type of simulation would you like?
+---------------------------------------------
+[2025-05-14 21:20:20] [Utilisateur: web_user_yf7kagkrzv] [Étape: WebChat]
+Message utilisateur: ⏱️ Short simulation (5-10 min)
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:20:20] [Utilisateur: web_user_yf7kagkrzv] [Étape: Introduction]
+Message utilisateur: ⏱️ Short simulation (5-10 min)
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:20:20] [Utilisateur: web_user_yf7kagkrzv] [Étape: Introduction]
+Message utilisateur: ⏱️ Short simulation (5-10 min)
+Réponse bot: Hello! I'm your virtual assistant to help you prepare for job interviews. How can I help you today?
+---------------------------------------------
+[2025-05-14 21:28:59] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:28:59] [Utilisateur: web_user_5zgl3cq4iev] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Preparation
+---------------------------------------------
+[2025-05-14 21:28:59] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Preparation]
+Message utilisateur: 📋 Commencer la préparation
+Réponse bot: Préparons-vous pour votre entretien ! Voici quelques options pour vous aider :
+---------------------------------------------
+[2025-05-14 21:29:01] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: 🔍 Rechercher l'entreprise
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:29:08] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Preparation]
+Message utilisateur: 🔍 Rechercher l'entreprise
+Réponse bot: Rechercher l'entreprise est une étape cruciale pour bien se préparer à un entretien d'embauche. Voici quelques conseils simples pour t'aider à bien te préparer :
+
+1. **Visite le site web de l'entreprise :** Commence par explorer le site web de l'entreprise. Cherche des informations sur ses produits, services, valeurs, et sa mission. Cela te donnera une bonne idée de ce que l'entreprise fait et de ce qu'elle valorise.
+
+2. **Regarde les réseaux sociaux de l'entreprise :** Consulte les pages de l'entreprise sur les réseaux sociaux comme LinkedIn, Facebook ou Twitter. Cela te permettra de voir les dernières actualités, événements ou initiatives de l'entreprise.
+
+3. **Lis des articles ou des avis :** Cherche des articles de presse ou des avis en ligne concernant l'entreprise. Cela peut te donner un aperçu de sa réputation et de son impact dans le secteur.
+
+4. **Informe-toi sur la culture de l'entreprise :** Essaie de comprendre la culture et l'environnement de travail de l'entreprise. Tu peux souvent trouver ces informations sur leur site web ou à travers des plateformes comme Glassdoor.
+
+5. **Identifie les concurrents de l'entreprise :** Connaître les principaux concurrents de l'entreprise peut te donner une perspective sur sa position dans le marché et ses défis.
+
+En te renseignant sur l'entreprise, tu pourras montrer lors de l'entretien que tu es bien préparé et motivé, et cela te permettra de formuler des questions pertinentes à poser au recruteur. As-tu des questions sur cette étape ou souhaites-tu passer à la suivante ? 😊
+---------------------------------------------
+[2025-05-14 21:29:15] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: ❓ Conseils généraux
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:29:25] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Preparation]
+Message utilisateur: ❓ Conseils généraux
+Réponse bot: Bien sûr! Voici quelques conseils pratiques pour t'aider à réussir ton entretien d'embauche :
+
+1. **Prépare-toi à l'avance :** Renseigne-toi sur l'entreprise et le poste pour lequel tu postules. Connais les produits, services ou missions principales de l'entreprise. Cela te permettra de montrer ton intérêt et ta motivation lors de l'entretien.
+
+2. **Prépare des réponses aux questions courantes :** Entraîne-toi à répondre à des questions typiques comme "Parlez-moi de vous", "Quelles sont vos forces et vos faiblesses ?", ou "Pourquoi voulez-vous travailler ici ?". Essaie de donner des réponses claires et concises, en illustrant avec des exemples concrets de tes expériences passées.
+
+3. **Soigne ton apparence :** Choisis une tenue professionnelle et appropriée pour l'entretien. Une bonne première impression est essentielle.
+
+4. **Travaille sur ta communication :** Parle clairement et lentement. Prends le temps de réfléchir avant de répondre aux questions. Si tu ne comprends pas une question, n'hésite pas à demander des précisions.
+
+5. **Pose des questions :** Prépare quelques questions à poser à la fin de l'entretien. Cela montre ton intérêt pour le poste et l'entreprise. Par exemple, "Quelles sont les prochaines étapes du processus de recrutement ?" ou "Quelle est la culture de l'entreprise ?".
+
+6. **Gère ton stress :** Fais des exercices de respiration ou visualise des scénarios positifs pour te détendre avant l'entretien. N'oublie pas que l'entretien est aussi une occasion pour toi de voir si l'entreprise te convient.
+
+7. **Utilise un papier et un stylo :** Si tu n'es pas à l'aise avec les outils numériques, apporte un carnet et un stylo pour prendre des notes durant l'entretien. Cela peut être utile pour te souvenir des points importants discutés.
+
+En suivant ces conseils, tu seras mieux préparé et plus confiant lors de ton entretien. Bonne chance !
+---------------------------------------------
+[2025-05-14 21:29:32] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:29:46] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Preparation]
+Message utilisateur: 🏠 Retour au menu principal
+Réponse bot: Bien sûr, revenons aux étapes clés pour se préparer à un entretien d'embauche. Voici un aperçu des différentes étapes que nous pouvons explorer ensemble :
+
+1. **Rechercher l'entreprise :** Comprendre ce que fait l'entreprise, ses valeurs et sa culture.
+
+2. **Préparer des réponses :** Réfléchir aux questions courantes que les recruteurs posent et préparer des réponses claires et positives.
+
+3. **Questions à poser :** Préparer des questions pertinentes à poser à l'employeur pour montrer ton intérêt et comprendre mieux le poste.
+
+4. **Se préparer à l'entretien :** Choisir une tenue professionnelle, planifier ton trajet pour arriver à l'heure, et rassembler les documents nécessaires.
+
+5. **Négociation :** Réfléchir à tes attentes en termes de salaire et de conditions de travail et comment les aborder.
+
+Chaque étape est conçue pour te donner confiance et te préparer au mieux pour réussir ton entretien ! Par quelle étape aimerais-tu commencer ? 😊
+---------------------------------------------
+[2025-05-14 21:30:07] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:30:07] [Utilisateur: web_user_5zgl3cq4iev] [TRANSITION]
+De l'étape: MenuPrincipal
+Vers l'étape: Simulation
+---------------------------------------------
+[2025-05-14 21:30:07] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Simulation]
+Message utilisateur: 💬 Simuler un entretien
+Réponse bot: C'est parti pour une simulation d'entretien ! Quel type de simulation souhaitez-vous ?
+---------------------------------------------
+[2025-05-14 21:30:09] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: 🎮 Simulation par thème
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:30:15] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Simulation]
+Message utilisateur: 🎮 Simulation par thème
+Réponse bot: D'accord, nous allons procéder à une simulation d'entretien par thème. Cela te permet de te concentrer sur des aspects spécifiques d'un entretien pour te préparer au mieux. Voici quelques thèmes que nous pouvons aborder :
+
+1. **Parler de soi :** Comment te présenter et parler de ton parcours.
+2. **Expérience professionnelle :** Comment discuter de tes précédentes expériences de travail.
+3. **Motivation :** Exprimer pourquoi tu es intéressé(e) par le poste et l'entreprise.
+4. **Forces et faiblesses :** Comment identifier et présenter tes points forts et tes domaines d'amélioration.
+5. **Avenir professionnel :** Parler de tes objectifs professionnels à long terme.
+6. **Questions du recruteur :** Répondre à des questions courantes posées par les recruteurs.
+
+Quel thème souhaites-tu explorer en premier ? 😊
+---------------------------------------------
+[2025-05-14 21:30:34] [Utilisateur: web_user_5zgl3cq4iev] [Étape: WebChat]
+Message utilisateur: forces et faiblesses
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 21:30:44] [Utilisateur: web_user_5zgl3cq4iev] [Étape: Simulation]
+Message utilisateur: forces et faiblesses
+Réponse bot: Commençons par explorer comment aborder le thème des forces et des faiblesses lors d'un entretien. C'est un sujet qui revient souvent et qui peut être délicat à aborder, mais avec un peu de préparation, tu pourras le gérer avec assurance.
+
+### Question : "Quels sont vos points forts ?"
+**Conseils pour répondre :**
+- **Identifie trois forces clés** qui sont pertinentes pour le poste que tu vises. Par exemple, si tu postules pour un poste qui nécessite une bonne organisation, tu pourrais mentionner ta capacité à planifier efficacement et à respecter les délais.
+- Utilise des **exemples concrets** pour illustrer tes points forts. Par exemple, "Je suis très organisé, ce qui m'a permis de gérer plusieurs projets en même temps dans mon précédent emploi."
+
+### Question : "Quels sont vos défauts ?"
+**Conseils pour répondre :**
+- Choisis une faiblesse qui n'est pas essentielle pour le poste, mais montre que tu es conscient(e) de cet aspect et que tu cherches à t'améliorer.
+- Transforme la faiblesse en une **opportunité de croissance**. Par exemple, "Je peux être parfois trop minutieux, mais je m'efforce de trouver un bon équilibre pour être efficace sans sacrifier la qualité."
+
+### Exercice :
+- **Identifie trois forces** qui sont significatives pour le travail que tu recherches.
+- Pense à **une faiblesse** et comment tu travailles pour l'améliorer.
+
+Peux-tu me donner un exemple de force ou de faiblesse que tu pourrais mentionner lors d'un entretien ? Je suis là pour t'aider à les formuler ! 😊
+---------------------------------------------
+[2025-05-14 22:09:27] [Utilisateur: web_user_70qfex4zt5] [Étape: WebChat]
+Message utilisateur: 👤 Évaluer mon profil
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 22:09:31] [Utilisateur: web_user_70qfex4zt5] [Étape: Introduction]
+Message utilisateur: 👤 Évaluer mon profil
+Réponse bot: Bonjour ! Je suis ravi de t'aider à préparer tes entretiens d'embauche. Un entretien d'embauche, c'est une rencontre où tu as l'opportunité de montrer à un employeur potentiel pourquoi tu es la bonne personne pour un poste. C'est aussi une occasion pour toi de voir si le poste et l'entreprise te conviennent.
+
+Avant de commencer, pourrais-tu me dire si tu as déjà passé des entretiens d'embauche auparavant ? Et s'il y a un aspect particulier de l'entretien sur lequel tu aimerais te concentrer ? N'hésite pas à partager, je suis là pour t'aider !
+---------------------------------------------
+[2025-05-14 22:10:18] [Utilisateur: web_user_70qfex4zt5] [Étape: WebChat]
+Message utilisateur: Oui j'en ai déjà passé. Je voudrais me concentrer sur les forces et les faiblesses
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 22:10:24] [Utilisateur: web_user_70qfex4zt5] [Étape: Introduction]
+Message utilisateur: Oui j'en ai déjà passé. Je voudrais me concentrer sur les forces et les faiblesses
+Réponse bot: C'est une excellente idée de te concentrer sur tes forces et tes faiblesses, car c'est une question qui revient souvent en entretien. L'important est d'être honnête tout en montrant que tu es conscient de toi-même et prêt à t'améliorer.
+
+### Parler de tes forces :
+Pense à des qualités ou compétences qui sont particulièrement pertinentes pour le poste que tu vises. Par exemple, si tu postules pour un poste qui nécessite de travailler en équipe, tu pourrais dire : 
+- **"Je suis très à l'aise en travaillant en équipe. Lors de mon expérience précédente, j'ai souvent été le point de contact entre différents départements pour assurer la bonne communication des projets."**
+
+### Parler de tes faiblesses :
+Il est tout à fait normal d'avoir des faiblesses, l'important est de montrer que tu travailles dessus. Par exemple :
+- **"Je peux être parfois un peu trop perfectionniste, ce qui me fait passer plus de temps que nécessaire sur certains détails. Cependant, j'ai appris à mieux gérer mon temps en priorisant les tâches essentielles."**
+
+Veux-tu essayer de formuler quelques forces et faiblesses que tu pourrais utiliser lors de ton prochain entretien ? Je suis là pour t'aider à les peaufiner !
+---------------------------------------------
+[2025-05-14 22:11:05] [Utilisateur: web_user_70qfex4zt5] [Étape: WebChat]
+Message utilisateur: 🏠 Menu principal
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 22:11:06] [Utilisateur: web_user_70qfex4zt5] [Étape: Introduction]
+Message utilisateur: 🏠 Menu principal
+Réponse bot: Voici le menu principal :
+---------------------------------------------
+[2025-05-14 22:11:09] [Utilisateur: web_user_70qfex4zt5] [Étape: WebChat]
+Message utilisateur: ⚙️ Mettre à jour mon profil
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 22:11:09] [Utilisateur: web_user_70qfex4zt5] [Étape: Introduction]
+Message utilisateur: ⚙️ Mettre à jour mon profil
+Réponse bot: Mettons à jour votre profil. Qu'aimeriez-vous modifier ?
+---------------------------------------------
+[2025-05-14 22:11:12] [Utilisateur: web_user_70qfex4zt5] [Étape: WebChat]
+Message utilisateur: 🗣️ Niveau de langue
+Réponse bot: Réponse non encore générée
+---------------------------------------------
+[2025-05-14 22:11:17] [Utilisateur: web_user_70qfex4zt5] [Étape: Introduction]
+Message utilisateur: 🗣️ Niveau de langue
+Réponse bot: D'accord, nous allons parler de ton niveau de langue. Pour les entretiens d'embauche, il est important de bien présenter ton niveau de langue, surtout si une langue étrangère est requise pour le poste. 
+
+Voici quelques niveaux que l'on utilise généralement pour décrire ses compétences linguistiques :
+- **Débutant** : Tu connais quelques mots et phrases de base.
+- **Intermédiaire** : Tu peux te débrouiller dans des situations courantes et exprimer des idées simples.
+- **Avancé** : Tu es capable de tenir des conversations complexes et de comprendre des textes difficiles.
+- **Courant** : Tu parles presque comme un locuteur natif, avec une grande aisance.
+
+Peux-tu me dire à quel niveau tu estimes être dans la langue que tu souhaites améliorer ou mettre en avant pour ton prochain entretien ? Si tu as besoin de conseils pour l'exprimer lors d'un entretien, je suis là pour t'aider !
+---------------------------------------------

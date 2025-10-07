@@ -1,0 +1,22 @@
+SUMMARY OF THE NEED TO BE ADDRESSED
+Vulnerable job seekers lik  Amin face a set of intertwined obstacles: lack of access to digital tools, limited language proficiency, low self-confidence, and non-linear life paths that are hard to translate into "standard" CVs. Most importantly, they lack a trusted, low-pressure environment to practice and progress step-by-step.
+What they need:
+A simple, structured path to navigate the different steps ofh the recruitmentprocessy
+A tool thatusets visual and audio-based learnin to bypass language and literacy barriers
+Multilingual content and coaching, accessible both online and offline
+A non-intimidating, confidence-building space that mimics real-life situations without pressure
+The ability to create and own their personalizede documents (CV, lettesr) t their own pace
+A way to track progress, remember deadlines, and feel in control of their journey
+How PAS À PAS addressets these needh:
+Modula structure, allowing users to start wherever they are in the process
+Audio-guided navigation, including key messages and coaching tips in their own languagep
+Auto-filled CV and cover lette toolsr based onsimplified input (checklists, voice, icons)
+Built-in logic to suggest adaptations or human support based on their quiz score
+Facilitator companion tools, so volunteers and social workers can use it together with beneficiaries as a trust-building, empowering activity
+
+ MISSING INFORMATION / QUESTIONS TO CLARIFY
+Can Red Cross Digital Territories teams support voice recordings in multiple languages?
+What devices are most commonly accessible to beneficiaries? (smartphones vs. paper vs. tablets)
+Can the tool be hosted on existing Croix-Rouge digital platforms?
+Is there existing content (training, templates) that could be adapted?
+Should local employers be involved in validating the relevance of the tool's templates?
