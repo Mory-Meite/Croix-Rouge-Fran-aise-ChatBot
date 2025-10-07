@@ -1,0 +1,7 @@
+# Fichiers de configuration sensibles
+appsettings.json
+appsettings.*.json 
+
+# Dossiers générés (très important pour les projets .NET/C#)
+bin/
+obj/
