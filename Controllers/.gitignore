@@ -1,5 +1,8 @@
+# Dossiers générés (bin et obj)
+[Bb]in/
+[Oo]bj/
 
 
-# Dossiers générés (très important pour les projets .NET/C#)
-bin/
-obj/
+
+# Fichiers macOS
+.DS_Store
